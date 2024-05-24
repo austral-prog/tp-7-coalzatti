@@ -16,4 +16,4 @@ def enumerate_backwards(list):
             a_element = f"{index_new}. {element_1[::-1]}"
             a_list.append(a_element)
             index1 += 1  
-            return list0
+     return list0
