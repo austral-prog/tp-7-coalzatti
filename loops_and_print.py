@@ -15,4 +15,5 @@ def enumerate_backwards(list):
         if element_1 != "":
             a_element = f"{index_new}. {element_1[::-1]}"
             a_list.append(a_element)
-            index1 += 1    return list0
+            index1 += 1  
+            return list0
